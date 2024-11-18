@@ -1,0 +1,8 @@
+# Python 캐시 파일
+__pycache__/
+
+# 가상 환경 디렉토리
+venv/
+
+# MacOS 시스템 파일
+.DS_Store
